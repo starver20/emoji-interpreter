@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-image {
+  background-image: url(https://cdn.britannica.com/40/75640-050-F894DD85/tiger-Siberian.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+  filter: blur(10px);
+}
+
+.txt {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  z-index: 5;
+  padding: 4rem;
+  padding-top: 0px;
+  font-size: 1.5vw;
+  text-align: center;
+}
+
+input {
+  height: 8vh;
+  padding: 0.5vh;
+  font-size: 1.5vw;
+}
+
+span {
+  font-size: 2vw;
+  padding: 1vw;
+}
