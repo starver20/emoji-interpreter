@@ -15,7 +15,3 @@
 > - ReactJS
 > - HTML
 > - CSS
-
-# emoji-Interpreter
-
-> > > > > > > 4c170d49bdb7dc64cb6555d1223ba00f3c636c09
