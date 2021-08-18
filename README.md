@@ -6,7 +6,7 @@
 
 <br>
 
-## You can access my portfolio [here](https://i5go5.csb.app/)
+## You can access it [here](https://i5go5.csb.app/)
 
 <br>
 
